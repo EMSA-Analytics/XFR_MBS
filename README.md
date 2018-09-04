@@ -1,3 +1,3 @@
-# XFR_MBS
+# XFR_MBS MOD
 XFR MBS  PY script
-This is the original script by Amilcah please do not modify and instead create branches for versions
+This is the branch for making modifications to the XFR_MBS script
